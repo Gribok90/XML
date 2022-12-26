@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hard_skills>
+	<skill1>some skill</skill1>
+	<skill2>some skill</skill2>
+</hard_skills>
+<soft_skills>
+	<skill1>some skill</skill1>
+        <skill2>some skill</skill2>
+</soft_skils>
