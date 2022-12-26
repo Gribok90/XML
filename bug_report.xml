@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Severity>minor</Severity>
+<Environment>Redmi 9t, Android 11</Environment>
+<Title>The 'web-messenger' pop-up is not scrolled in landscape orientation on the 'How can we help you?' support page.</Title>
+<Steps>
+  <step1>Navigate to 'website address'</step1>
+  <step2>Tap on the [Support] button</step2>
+  <step3>Tap on the [Message] icon</step3>
+  <step4>Tap on the [Web-messenger] button</step4>
+</Steps>
+<Expected_Result>Pop-up 'Web-messenger' is scrolled</Expected_Result>
+<Actual_Result>Pop-up 'Web-messenger' is not scrolled</Actual_Result>
+<Attachment>video</Attachment>
